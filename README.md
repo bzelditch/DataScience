@@ -1,7 +1,7 @@
 # DataScience
 
-A central repository for various data science projects/explorations.
+A central repository for my various data science projects/explorations. The summaries below describe each investigation in more detail.
 
 ## Wine
 
-An analysis of 150K wines reviewed in Wine Magazine.
+An analysis of 150K wines reviewed in Wine Magazine. 
